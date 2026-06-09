@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Day13ProductManager/Day13ProductManager.csproj" />
+  <Project Path="ProductLibrary/ProductLibrary.csproj" />
+</Solution>
