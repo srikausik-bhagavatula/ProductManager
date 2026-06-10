@@ -5,6 +5,8 @@ namespace Day13ProductManager
     internal class Program
     {
         private static readonly ProductDataManager _dataManager = new ProductDataManager();
+
+        //This is the Main() providing us the Product Management features
         static void Main(string[] args)
         {
 
